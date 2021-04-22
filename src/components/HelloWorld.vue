@@ -23,6 +23,7 @@ const users = [
     "MKaras93",
     "arudzinska",
     "Mc01",
+    "Liman223",
 ]
 const names = {
   "magdalenak": "Magda",
@@ -31,6 +32,7 @@ const names = {
   "MKaras93": "Michał",
   "arudzinska": "Ania",
   "Mc01": "Marcin",
+  "Liman223": "Piotrek",
 }
 const ranks = [
   {rank: "8 kyu", score: 0},
