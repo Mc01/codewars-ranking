@@ -1,5 +1,4 @@
 <template>
-  <h1>CodeWars Ranking</h1>
   <div v-for="user in state.info">
     <p>
       <b>{{state.names[user.username]}}</b><br/>
